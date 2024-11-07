@@ -1,16 +1,16 @@
-## Hi there 👋
+## About me 👋
 
-<!--
-**Richard1112004/Richard1112004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+This is how I introduce about myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## School
+
+Right now, I am studying HCMUT (Bach Khoa university)
+
+### What I hope
+
+I hope that I can get Student Account on github
+
+### What I can do
+
+Right now, I am code the project about website by golang, django and computer network
