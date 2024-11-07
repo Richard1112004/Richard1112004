@@ -13,4 +13,4 @@ I hope that I can get Student Account on github
 
 ### What I can do
 
-Right now, I am code the project about website by golang, django and computer network
+Right now, I am coding the project about website by golang, django and computer network
